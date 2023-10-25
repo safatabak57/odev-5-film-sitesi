@@ -1,0 +1,96 @@
+.ana{
+    width: 75%;
+    margin-left: 12.5%;
+    background-color: #580905;
+    color: white;
+    padding: 20px 0px;
+}
+
+.baslik{
+    width: 100%;
+}
+
+.baslik h1{
+    width: 100%;
+    text-align: center;
+}
+
+.oyuncular h2{
+    width: 100%;
+    text-align: center;
+}
+
+.oyuncular{
+    width: 100%;
+}
+
+.oyuncular ul li img{
+    width: 75px;
+    height: 75px;
+    margin-right: 5px;
+    border-radius: 100px;
+}
+
+.oyuncular ul{
+    margin-left: 8%;
+
+}
+
+.oyuncular ul li{
+    float: left;
+    width: 33%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.kapakfoto{
+    width: 100%;
+    margin-top: 100px;
+}
+
+.kapakfoto img{
+    width: 100%;
+    margin-top: 50px;
+    height: 700px;
+    border-radius: 10px;
+} 
+
+.yorum{
+    text-align: center;
+    font-size: 25px;
+    padding: 25px 25px;
+}
+
+.fragman{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.fragman iframe{
+    width: 100%;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+}
+
+.video a{
+    width: 400px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
